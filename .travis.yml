@@ -1,0 +1,12 @@
+sudo: false
+language: node_js
+node_js: "8"
+
+before_install:
+
+- rm -rf node_modules
+
+install:
+- npm i nativescript
+- npm i
+- tns build android --copy-to
