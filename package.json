@@ -29,6 +29,7 @@
     "nativescript-plugin-firebase": "~7.4.0",
     "nativescript-theme-core": "~1.0.4",
     "nativescript-ui-listview": "~3.7.0",
+    "nativescript-cloud":"1.14.4",
     "tns-core-modules": "~5.0.2",
     "reflect-metadata": "~0.1.10",
     "rxjs": "~6.3.0",

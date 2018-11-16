@@ -8,5 +8,5 @@ before_install:
 
 install:
 - npm i -g nativescript --ignore-scripts
-- npm install --ignore-scripts
+- npm i
 - tns build android --copy-to .
