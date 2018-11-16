@@ -8,4 +8,4 @@ before_install:
 
 install:
 - npm install --ignore-scripts
-- tns build android --copy-to
+- tns build android --copy-to .
