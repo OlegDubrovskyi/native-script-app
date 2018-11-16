@@ -7,6 +7,5 @@ before_install:
 - rm -rf node_modules
 
 install:
-- npm i nativescript
 - npm i
 - tns build android --copy-to
