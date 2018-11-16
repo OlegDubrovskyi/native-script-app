@@ -7,5 +7,5 @@ before_install:
 - rm -rf node_modules
 
 install:
-- npm install -y
+- npm install --yes
 - tns build android --copy-to
